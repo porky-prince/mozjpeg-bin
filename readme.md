@@ -4,6 +4,7 @@
 
 You probably want [`imagemin-mozjpeg`](https://github.com/imagemin/imagemin-mozjpeg) instead.
 
+> use https://npm.taobao.org/mirrors/mozjpeg-bin/ as downlaod source
 
 ## Install
 
